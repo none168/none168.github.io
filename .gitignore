@@ -1,3 +1,9 @@
-_site
 .DS_Store
-.sass-cache
+
+npm-debug.log
+
+_config.yml
+
+node_modules
+
+.idea
